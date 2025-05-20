@@ -87,8 +87,8 @@ closegraph();
 }
 
 Program to implement the various transformations on three dimensional odjects using a c coding.
-DEVELOPED BY: VIGNESH G
-REGISTER NUMBER: 212224230301
+DEVELOPED BY: S.MOULIDHARAN
+REGISTER NUMBER: 212224240095
 ~~~
 
 ## Output :

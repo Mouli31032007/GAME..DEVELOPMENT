@@ -28,7 +28,7 @@
    Step 7 : Stop.
 
 ## Program :
-```
+~~~
 #include<stdio.h> 
 #include<conio.h> 
 #include<graphics.h> 
@@ -85,17 +85,23 @@ bar3d(midx+x1,midy-100,midx+x2,midy-90,5,1);
 getch(); 
 closegraph(); 
 }
-```
+
+Program to implement the various transformations on three dimensional odjects using a c coding.
+DEVELOPED BY: VIGNESH G
+REGISTER NUMBER: 212224230301
+~~~
+
 ## Output :
 
-![image](https://github.com/user-attachments/assets/57d9227c-caeb-4466-ab3d-ece44cfbbab4)
-![image](https://github.com/user-attachments/assets/ba2f6f9f-f066-455e-9be8-b95f8c5c45b6)
-![image](https://github.com/user-attachments/assets/d7e79365-3db7-4825-ae18-96f358c77974)
-![image](https://github.com/user-attachments/assets/865b782d-7219-4c56-a946-185a235cf7f8)
-![image](https://github.com/user-attachments/assets/a1cc8f1d-a34d-42c2-a590-8fd1dd4b15b5)
-![image](https://github.com/user-attachments/assets/2f92a9e3-ef45-4104-9fdb-d8591744ece5)
-![image](https://github.com/user-attachments/assets/4c966cc3-37d6-441f-b984-14b3e9baabe8)
-![image](https://github.com/user-attachments/assets/b11907f3-6921-476b-94da-012dce747b74)
+![Screenshot (34)](https://github.com/user-attachments/assets/09c0ecf2-6bbc-4019-8cd5-f2b4ff5a51f9)
+![Screenshot (35)](https://github.com/user-attachments/assets/578944b8-d3ab-417e-870f-b1e43375c505)
+![Screenshot (36)](https://github.com/user-attachments/assets/b81c5a98-6a3b-40fe-8c4e-55929fd55266)
+![Screenshot (37)](https://github.com/user-attachments/assets/eefb43e4-3195-42f5-9961-341c06aefb0d)
+![Screenshot (38)](https://github.com/user-attachments/assets/7ab0d3cd-0d63-4803-90e3-9a6b63d89c7f)
+![Screenshot (39)](https://github.com/user-attachments/assets/e38235ea-0f8a-437c-8700-5c0b08648c87)
+![Screenshot (40)](https://github.com/user-attachments/assets/593127e7-b404-447b-80ba-cca38adf78ed)
+![Screenshot (41)](https://github.com/user-attachments/assets/d48cdc73-f198-4425-854f-33ef7b17fdb2)
 
 ## Result :
 Thus, the C program for performing three-dimensional transformations — including translation, scaling, and rotation about the X, Y, and Z axes — was successfully implemented and the output was verified through graphical representation.
+
